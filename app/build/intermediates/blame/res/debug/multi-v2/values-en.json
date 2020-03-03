@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Imagens\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "D:\\Android\\Imagens\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "D:\\Imagens\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "source": "D:\\Android\\Imagens\\app\\src\\main\\res\\values-en\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

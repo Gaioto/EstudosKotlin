@@ -1,4 +1,0 @@
-#Wed Feb 12 20:17:12 GMT-03:00 2020
-base.0=D\:\\Imagens\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
-path.0=classes.dex
-renamed.0=classes.dex

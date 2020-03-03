@@ -3,4 +3,9 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="color_banana">#F6EA7E</color>
+    <color name="color_abacaxi">#FDD291</color>
+    <color name="color_manga">#FFD600</color>
+    <color name="color_melancia">#F85D5D</color>
+    <color name="color_morango">#F2FF4545</color>
 </resources>

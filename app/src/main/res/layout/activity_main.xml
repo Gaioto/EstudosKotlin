@@ -1,4 +1,4 @@
-<LinearLayout
+<androidx.appcompat.widget.LinearLayoutCompat
         android:background="#FFF2AC"
         android:gravity="center"
         android:layout_width="match_parent"
@@ -7,17 +7,19 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
 
 
-    <ImageView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+    <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="@dimen/dimens200dp"
+            android:layout_height="@dimen/dimens200dp"
             android:src="@drawable/morango"
             android:id="@+id/imgFrutas"/>
 
-    <Button
-            android:layout_width="wrap_content"
+    <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="160dp"
             android:layout_height="wrap_content"
-            android:text="Trocar imagem"
-            android:onClick="trocarImagem"/>
+            android:layout_marginTop="20dp"
+            android:background="#6B94F8EF"
+            android:onClick="trocarImagem"
+            android:text="@string/txt_mudaimagem" />
 
 
-</LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>

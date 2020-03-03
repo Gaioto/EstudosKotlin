@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/tela_fruta"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="match_parent" android:layout_height="match_parent">
+        xmlns:tools="http://schemas.android.com/tools"
+        android:background="@color/color_banana"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/image_fruit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/banana"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/fruit_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_banana"
+            android:textStyle="bold"
+            android:textIsSelectable="false"
+            android:textSize="30sp"
+            android:layout_marginTop="35dp"
+            app:layout_constraintEnd_toEndOf="@id/image_fruit"
+            app:layout_constraintStart_toStartOf="@id/image_fruit"
+            app:layout_constraintTop_toBottomOf="@id/image_fruit"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/fruit_info"
+            android:layout_width="389dp"
+            android:layout_height="93dp"
+            android:layout_marginTop="35dp"
+            android:text="@string/banana_info"
+            android:textStyle="bold|italic"
+            android:fontFamily="sans-serif"
+            android:textIsSelectable="false"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/fruit_name"
+            tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

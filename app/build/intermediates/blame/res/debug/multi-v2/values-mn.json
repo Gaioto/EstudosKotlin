@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Imagens\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+            "outputFile": "D:\\Android\\Imagens\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\logonrmlocal\\.gradle\\caches\\transforms-2\\files-2.1\\f20a00d4aa7bf13b17ab3209370bf941\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\luizg\\.gradle\\caches\\transforms-2\\files-2.1\\e1529001cc3f60caa67b576fc6c00231\\appcompat-1.1.0\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\logonrmlocal\\.gradle\\caches\\transforms-2\\files-2.1\\6ad80788585a96f65b45caa3d67f8774\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\luizg\\.gradle\\caches\\transforms-2\\files-2.1\\47abbf4f23226f54634512a83aedb2cf\\core-1.2.0\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
