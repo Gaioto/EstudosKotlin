@@ -95,7 +95,91 @@
         <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
         <item name="android:textColor">@color/secondary_text_default_material_light</item>
         <item name="android:textSize">@dimen/notification_action_text_size</item>
-    </style></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-vi\values-vi.xml" qualifiers="vi"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.appcompat:appcompat-resources:1.1.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\633a0aa3b2e3d372d696a6a0571379d5\jetified-appcompat-resources-1.1.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.appcompat:appcompat-resources:1.1.0" from-dependency="true" generated-set="androidx.appcompat:appcompat-resources:1.1.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\633a0aa3b2e3d372d696a6a0571379d5\jetified-appcompat-resources-1.1.0\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\633a0aa3b2e3d372d696a6a0571379d5\jetified-appcompat-resources-1.1.0\res\values\values.xml" qualifiers=""><declare-styleable name="AnimatedStateListDrawableCompat">
+    </style></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-vi\values-vi.xml" qualifiers="vi"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\68e35c9edf0fdf2156d6c3695bb10488\coordinatorlayout-1.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.coordinatorlayout:coordinatorlayout:1.0.0" from-dependency="true" generated-set="androidx.coordinatorlayout:coordinatorlayout:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\68e35c9edf0fdf2156d6c3695bb10488\coordinatorlayout-1.0.0\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\68e35c9edf0fdf2156d6c3695bb10488\coordinatorlayout-1.0.0\res\values\values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.appcompat:appcompat-resources:1.1.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\633a0aa3b2e3d372d696a6a0571379d5\jetified-appcompat-resources-1.1.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.appcompat:appcompat-resources:1.1.0" from-dependency="true" generated-set="androidx.appcompat:appcompat-resources:1.1.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\633a0aa3b2e3d372d696a6a0571379d5\jetified-appcompat-resources-1.1.0\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\633a0aa3b2e3d372d696a6a0571379d5\jetified-appcompat-resources-1.1.0\res\values\values.xml" qualifiers=""><declare-styleable name="AnimatedStateListDrawableCompat">
         
         <attr name="android:visible"/>
         
@@ -142,7 +226,104 @@
     </declare-styleable><declare-styleable name="StateListDrawableItem">
         
         <attr name="android:drawable"/>
-    </declare-styleable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.constraintlayout:constraintlayout:1.1.3$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\4230a09911f57cdc0861c58df6cee5e5\constraintlayout-1.1.3\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.constraintlayout:constraintlayout:1.1.3" from-dependency="true" generated-set="androidx.constraintlayout:constraintlayout:1.1.3$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\4230a09911f57cdc0861c58df6cee5e5\constraintlayout-1.1.3\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\4230a09911f57cdc0861c58df6cee5e5\constraintlayout-1.1.3\res\values\values.xml" qualifiers=""><attr format="boolean" name="barrierAllowsGoneWidgets"/><attr format="enum" name="barrierDirection">
+    </declare-styleable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.gridlayout:gridlayout:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\16b94a44736de2147babf8b5e1be8560\gridlayout-1.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.gridlayout:gridlayout:1.0.0" from-dependency="true" generated-set="androidx.gridlayout:gridlayout:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\16b94a44736de2147babf8b5e1be8560\gridlayout-1.0.0\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\16b94a44736de2147babf8b5e1be8560\gridlayout-1.0.0\res\values\values.xml" qualifiers=""><declare-styleable name="GridLayout">
+
+        
+
+
+        
+        <attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="rowCount"/>
+        
+        <attr format="integer" name="columnCount"/>
+        
+        <attr format="boolean" name="useDefaultMargins"/>
+        
+        <attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr>
+        
+        <attr format="boolean" name="rowOrderPreserved"/>
+        
+        <attr format="boolean" name="columnOrderPreserved"/>
+    </declare-styleable><declare-styleable name="GridLayout_Layout">
+
+        
+
+
+        
+
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+        
+        <attr name="android:layout_margin"/>
+        
+        <attr name="android:layout_marginLeft"/>
+        
+        <attr name="android:layout_marginTop"/>
+        
+        <attr name="android:layout_marginRight"/>
+        
+        <attr name="android:layout_marginBottom"/>
+
+        
+
+        
+        <attr format="integer" name="layout_row"/>
+        
+        <attr format="integer" min="1" name="layout_rowSpan"/>
+        
+        <attr format="float" name="layout_rowWeight"/>
+        
+        <attr format="integer" name="layout_column"/>
+        
+        <attr format="integer" min="1" name="layout_columnSpan"/>
+        
+        <attr format="float" name="layout_columnWeight"/>
+        
+        <attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+    </declare-styleable><dimen name="default_gap">8dip</dimen></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.constraintlayout:constraintlayout:1.1.3$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\4230a09911f57cdc0861c58df6cee5e5\constraintlayout-1.1.3\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.constraintlayout:constraintlayout:1.1.3" from-dependency="true" generated-set="androidx.constraintlayout:constraintlayout:1.1.3$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\4230a09911f57cdc0861c58df6cee5e5\constraintlayout-1.1.3\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\4230a09911f57cdc0861c58df6cee5e5\constraintlayout-1.1.3\res\values\values.xml" qualifiers=""><attr format="boolean" name="barrierAllowsGoneWidgets"/><attr format="enum" name="barrierDirection">
         <enum name="left" value="0"/>
         <enum name="right" value="1"/>
         <enum name="top" value="2"/>
@@ -210,7 +391,66 @@
         <flag name="chains" value="4"/>
         <flag name="dimensions" value="8"/>
         <flag name="groups" value="32"/>
-    </attr><declare-styleable name="ConstraintLayout_Layout"><attr name="android:orientation"/><attr name="android:minWidth"/><attr name="android:minHeight"/><attr name="android:maxWidth"/><attr name="android:maxHeight"/><attr name="layout_optimizationLevel"/><attr name="constraintSet"/><attr name="barrierDirection"/><attr name="barrierAllowsGoneWidgets"/><attr name="constraint_referenced_ids"/><attr name="chainUseRtl"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable><declare-styleable name="ConstraintLayout_placeholder"><attr name="emptyVisibility"/><attr name="content"/></declare-styleable><declare-styleable name="ConstraintSet"><attr name="android:orientation"/><attr name="android:id"/><attr name="android:visibility"/><attr name="android:alpha"/><attr name="android:elevation"/><attr name="android:rotation"/><attr name="android:rotationX"/><attr name="android:rotationY"/><attr name="android:scaleX"/><attr name="android:scaleY"/><attr name="android:transformPivotX"/><attr name="android:transformPivotY"/><attr name="android:translationX"/><attr name="android:translationY"/><attr name="android:translationZ"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_marginStart"/><attr name="android:layout_marginBottom"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginEnd"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/><attr name="barrierDirection"/><attr name="constraint_referenced_ids"/><attr name="android:maxHeight"/><attr name="android:maxWidth"/><attr name="android:minHeight"/><attr name="android:minWidth"/><attr name="barrierAllowsGoneWidgets"/><attr name="chainUseRtl"/></declare-styleable><declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.appcompat:appcompat:1.1.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.appcompat:appcompat:1.1.0" from-dependency="true" generated-set="androidx.appcompat:appcompat:1.1.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values\values.xml" qualifiers=""><attr format="reference" name="drawerArrowStyle"/><attr format="dimension" name="height"/><attr format="boolean" name="isLightTheme"/><attr format="string" name="title"/><bool name="abc_action_bar_embed_tabs">true</bool><bool name="abc_allow_stacked_button_bar">false</bool><bool name="abc_config_actionMenuItemAllCaps">true</bool><color name="abc_input_method_navigation_guard">@android:color/black</color><color name="abc_search_url_text_normal">#7fa87f</color><color name="abc_search_url_text_pressed">@android:color/black</color><color name="abc_search_url_text_selected">@android:color/black</color><color name="accent_material_dark">@color/material_deep_teal_200</color><color name="accent_material_light">@color/material_deep_teal_500</color><color name="background_floating_material_dark">@color/material_grey_800</color><color name="background_floating_material_light">@android:color/white</color><color name="background_material_dark">@color/material_grey_850</color><color name="background_material_light">@color/material_grey_50</color><color name="bright_foreground_disabled_material_dark">#80ffffff</color><color name="bright_foreground_disabled_material_light">#80000000</color><color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color><color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color><color name="bright_foreground_material_dark">@android:color/white</color><color name="bright_foreground_material_light">@android:color/black</color><color name="button_material_dark">#ff5a595b</color><color name="button_material_light">#ffd6d7d7</color><color name="dim_foreground_disabled_material_dark">#80bebebe</color><color name="dim_foreground_disabled_material_light">#80323232</color><color name="dim_foreground_material_dark">#ffbebebe</color><color name="dim_foreground_material_light">#ff323232</color><color name="error_color_material_dark">#ff7043</color><color name="error_color_material_light">#ff5722</color><color name="foreground_material_dark">@android:color/white</color><color name="foreground_material_light">@android:color/black</color><color name="highlighted_text_material_dark">#6680cbc4</color><color name="highlighted_text_material_light">#66009688</color><color name="material_blue_grey_800">#ff37474f</color><color name="material_blue_grey_900">#ff263238</color><color name="material_blue_grey_950">#ff21272b</color><color name="material_deep_teal_200">#ff80cbc4</color><color name="material_deep_teal_500">#ff008577</color><color name="material_grey_100">#fff5f5f5</color><color name="material_grey_300">#ffe0e0e0</color><color name="material_grey_50">#fffafafa</color><color name="material_grey_600">#ff757575</color><color name="material_grey_800">#ff424242</color><color name="material_grey_850">#ff303030</color><color name="material_grey_900">#ff212121</color><color name="primary_dark_material_dark">@android:color/black</color><color name="primary_dark_material_light">@color/material_grey_600</color><color name="primary_material_dark">@color/material_grey_900</color><color name="primary_material_light">@color/material_grey_100</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="primary_text_default_material_light">#de000000</color><color name="primary_text_disabled_material_dark">#4Dffffff</color><color name="primary_text_disabled_material_light">#39000000</color><color name="ripple_material_dark">#33ffffff</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_dark">#b3ffffff</color><color name="secondary_text_default_material_light">#8a000000</color><color name="secondary_text_disabled_material_dark">#36ffffff</color><color name="secondary_text_disabled_material_light">#24000000</color><color name="switch_thumb_disabled_material_dark">#ff616161</color><color name="switch_thumb_disabled_material_light">#ffbdbdbd</color><color name="switch_thumb_normal_material_dark">#ffbdbdbd</color><color name="switch_thumb_normal_material_light">#fff1f1f1</color><color name="tooltip_background_dark">#e6616161</color><color name="tooltip_background_light">#e6FFFFFF</color><dimen name="abc_action_bar_content_inset_material">16dp</dimen><dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen><dimen name="abc_action_bar_default_height_material">56dp</dimen><dimen name="abc_action_bar_default_padding_end_material">0dp</dimen><dimen name="abc_action_bar_default_padding_start_material">0dp</dimen><dimen name="abc_action_bar_elevation_material">4dp</dimen><dimen name="abc_action_bar_icon_vertical_padding_material">16dp</dimen><dimen name="abc_action_bar_overflow_padding_end_material">10dp</dimen><dimen name="abc_action_bar_overflow_padding_start_material">6dp</dimen><dimen name="abc_action_bar_stacked_max_height">48dp</dimen><dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen><dimen name="abc_action_bar_subtitle_bottom_margin_material">5dp</dimen><dimen name="abc_action_bar_subtitle_top_margin_material">-3dp</dimen><dimen name="abc_action_button_min_height_material">48dp</dimen><dimen name="abc_action_button_min_width_material">48dp</dimen><dimen name="abc_action_button_min_width_overflow_material">36dp</dimen><dimen name="abc_alert_dialog_button_bar_height">48dp</dimen><dimen name="abc_alert_dialog_button_dimen">48dp</dimen><dimen name="abc_button_inset_horizontal_material">@dimen/abc_control_inset_material</dimen><dimen name="abc_button_inset_vertical_material">6dp</dimen><dimen name="abc_button_padding_horizontal_material">8dp</dimen><dimen name="abc_button_padding_vertical_material">@dimen/abc_control_padding_material</dimen><dimen name="abc_cascading_menus_min_smallest_width">720dp</dimen><dimen name="abc_config_prefDialogWidth">320dp</dimen><dimen name="abc_control_corner_material">2dp</dimen><dimen name="abc_control_inset_material">4dp</dimen><dimen name="abc_control_padding_material">4dp</dimen><dimen name="abc_dialog_corner_radius_material">2dp</dimen><item name="abc_dialog_fixed_height_major" type="dimen">80%</item><item name="abc_dialog_fixed_height_minor" type="dimen">100%</item><item name="abc_dialog_fixed_width_major" type="dimen">320dp</item><item name="abc_dialog_fixed_width_minor" type="dimen">320dp</item><dimen name="abc_dialog_list_padding_bottom_no_buttons">8dp</dimen><dimen name="abc_dialog_list_padding_top_no_title">8dp</dimen><item name="abc_dialog_min_width_major" type="dimen">65%</item><item name="abc_dialog_min_width_minor" type="dimen">95%</item><dimen name="abc_dialog_padding_material">24dp</dimen><dimen name="abc_dialog_padding_top_material">18dp</dimen><dimen name="abc_dialog_title_divider_material">8dp</dimen><item format="float" name="abc_disabled_alpha_material_dark" type="dimen">0.30</item><item format="float" name="abc_disabled_alpha_material_light" type="dimen">0.26</item><dimen name="abc_dropdownitem_icon_width">32dip</dimen><dimen name="abc_dropdownitem_text_padding_left">8dip</dimen><dimen name="abc_dropdownitem_text_padding_right">8dip</dimen><dimen name="abc_edit_text_inset_bottom_material">7dp</dimen><dimen name="abc_edit_text_inset_horizontal_material">4dp</dimen><dimen name="abc_edit_text_inset_top_material">10dp</dimen><dimen name="abc_floating_window_z">16dp</dimen><dimen name="abc_list_item_height_large_material">80dp</dimen><dimen name="abc_list_item_height_material">64dp</dimen><dimen name="abc_list_item_height_small_material">48dp</dimen><dimen name="abc_list_item_padding_horizontal_material">@dimen/abc_action_bar_content_inset_material</dimen><dimen name="abc_panel_menu_list_width">296dp</dimen><dimen name="abc_progress_bar_height_material">4dp</dimen><dimen name="abc_search_view_preferred_height">48dip</dimen><dimen name="abc_search_view_preferred_width">320dip</dimen><dimen name="abc_seekbar_track_background_height_material">2dp</dimen><dimen name="abc_seekbar_track_progress_height_material">2dp</dimen><dimen name="abc_select_dialog_padding_start_material">20dp</dimen><dimen name="abc_switch_padding">3dp</dimen><dimen name="abc_text_size_body_1_material">14sp</dimen><dimen name="abc_text_size_body_2_material">14sp</dimen><dimen name="abc_text_size_button_material">14sp</dimen><dimen name="abc_text_size_caption_material">12sp</dimen><dimen name="abc_text_size_display_1_material">34sp</dimen><dimen name="abc_text_size_display_2_material">45sp</dimen><dimen name="abc_text_size_display_3_material">56sp</dimen><dimen name="abc_text_size_display_4_material">112sp</dimen><dimen name="abc_text_size_headline_material">24sp</dimen><dimen name="abc_text_size_large_material">22sp</dimen><dimen name="abc_text_size_medium_material">18sp</dimen><dimen name="abc_text_size_menu_header_material">14sp</dimen><dimen name="abc_text_size_menu_material">16sp</dimen><dimen name="abc_text_size_small_material">14sp</dimen><dimen name="abc_text_size_subhead_material">16sp</dimen><dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen><dimen name="abc_text_size_title_material">20sp</dimen><dimen name="abc_text_size_title_material_toolbar">20dp</dimen><item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item><item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item><item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item><item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item><item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item><item format="float" name="hint_alpha_material_dark" type="dimen">0.50</item><item format="float" name="hint_alpha_material_light" type="dimen">0.38</item><item format="float" name="hint_pressed_alpha_material_dark" type="dimen">0.70</item><item format="float" name="hint_pressed_alpha_material_light" type="dimen">0.54</item><dimen name="tooltip_corner_radius">2dp</dimen><dimen name="tooltip_horizontal_padding">16dp</dimen><dimen name="tooltip_margin">8dp</dimen><dimen name="tooltip_precise_anchor_extra_offset">8dp</dimen><dimen name="tooltip_precise_anchor_threshold">96dp</dimen><dimen name="tooltip_vertical_padding">6.5dp</dimen><dimen name="tooltip_y_offset_non_touch">0dp</dimen><dimen name="tooltip_y_offset_touch">16dp</dimen><item name="action_bar_activity_content" type="id"/><item name="action_bar_spinner" type="id"/><item name="action_menu_divider" type="id"/><item name="action_menu_presenter" type="id"/><item name="home" type="id"/><item name="progress_circular" type="id"/><item name="progress_horizontal" type="id"/><item name="split_action_bar" type="id"/><item name="up" type="id"/><integer name="abc_config_activityDefaultDur">220</integer><integer name="abc_config_activityShortDur">150</integer><integer name="cancel_button_image_alpha">127</integer><integer name="config_tooltipAnimTime">150</integer><string name="abc_action_bar_home_description">Navigate home</string><string name="abc_action_bar_up_description">Navigate up</string><string name="abc_action_menu_overflow_description">More options</string><string name="abc_action_mode_done">Done</string><string name="abc_activity_chooser_view_see_all">See all</string><string name="abc_activitychooserview_choose_application">Choose an app</string><string name="abc_capital_off">OFF</string><string name="abc_capital_on">ON</string><string name="abc_menu_alt_shortcut_label">Alt+</string><string name="abc_menu_ctrl_shortcut_label">Ctrl+</string><string name="abc_menu_delete_shortcut_label">delete</string><string name="abc_menu_enter_shortcut_label">enter</string><string name="abc_menu_function_shortcut_label">Function+</string><string name="abc_menu_meta_shortcut_label">Meta+</string><string name="abc_menu_shift_shortcut_label">Shift+</string><string name="abc_menu_space_shortcut_label">space</string><string name="abc_menu_sym_shortcut_label">Sym+</string><string name="abc_prepend_shortcut_label">Menu+</string><string name="abc_search_hint">Search…</string><string name="abc_searchview_description_clear">Clear query</string><string name="abc_searchview_description_query">Search query</string><string name="abc_searchview_description_search">Search</string><string name="abc_searchview_description_submit">Submit query</string><string name="abc_searchview_description_voice">Voice search</string><string name="abc_shareactionprovider_share_with">Share with</string><string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string><string name="abc_toolbar_collapse_description">Collapse</string><string name="search_menu_title">Search</string><style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/><style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/><style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/><style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/><style name="Animation.AppCompat.Tooltip" parent="Base.Animation.AppCompat.Tooltip"/><style name="Base.AlertDialog.AppCompat" parent="android:Widget">
+    </attr><declare-styleable name="ConstraintLayout_Layout"><attr name="android:orientation"/><attr name="android:minWidth"/><attr name="android:minHeight"/><attr name="android:maxWidth"/><attr name="android:maxHeight"/><attr name="layout_optimizationLevel"/><attr name="constraintSet"/><attr name="barrierDirection"/><attr name="barrierAllowsGoneWidgets"/><attr name="constraint_referenced_ids"/><attr name="chainUseRtl"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable><declare-styleable name="ConstraintLayout_placeholder"><attr name="emptyVisibility"/><attr name="content"/></declare-styleable><declare-styleable name="ConstraintSet"><attr name="android:orientation"/><attr name="android:id"/><attr name="android:visibility"/><attr name="android:alpha"/><attr name="android:elevation"/><attr name="android:rotation"/><attr name="android:rotationX"/><attr name="android:rotationY"/><attr name="android:scaleX"/><attr name="android:scaleY"/><attr name="android:transformPivotX"/><attr name="android:transformPivotY"/><attr name="android:translationX"/><attr name="android:translationY"/><attr name="android:translationZ"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_marginStart"/><attr name="android:layout_marginBottom"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginEnd"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/><attr name="barrierDirection"/><attr name="constraint_referenced_ids"/><attr name="android:maxHeight"/><attr name="android:maxWidth"/><attr name="android:minHeight"/><attr name="android:minWidth"/><attr name="barrierAllowsGoneWidgets"/><attr name="chainUseRtl"/></declare-styleable><declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.cardview:cardview:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\c48362a1be3e136606bcb995f6611d5f\cardview-1.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.cardview:cardview:1.0.0" from-dependency="true" generated-set="androidx.cardview:cardview:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\c48362a1be3e136606bcb995f6611d5f\cardview-1.0.0\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\c48362a1be3e136606bcb995f6611d5f\cardview-1.0.0\res\values\values.xml" qualifiers=""><attr format="reference" name="cardViewStyle"/><color name="cardview_dark_background">#FF424242</color><color name="cardview_light_background">#FFFFFFFF</color><color name="cardview_shadow_end_color">#03000000</color><color name="cardview_shadow_start_color">#37000000</color><declare-styleable name="CardView">
+        
+        <attr format="color" name="cardBackgroundColor"/>
+        
+        <attr format="dimension" name="cardCornerRadius"/>
+        
+        <attr format="dimension" name="cardElevation"/>
+        
+        <attr format="dimension" name="cardMaxElevation"/>
+        
+        <attr format="boolean" name="cardUseCompatPadding"/>
+        
+        <attr format="boolean" name="cardPreventCornerOverlap"/>
+        
+        <attr format="dimension" name="contentPadding"/>
+        
+        <attr format="dimension" name="contentPaddingLeft"/>
+        
+        <attr format="dimension" name="contentPaddingRight"/>
+        
+        <attr format="dimension" name="contentPaddingTop"/>
+        
+        <attr format="dimension" name="contentPaddingBottom"/>
+        
+        <attr name="android:minWidth"/>
+        
+        <attr name="android:minHeight"/>
+    </declare-styleable><dimen name="cardview_compat_inset_shadow">1dp</dimen><dimen name="cardview_default_elevation">2dp</dimen><dimen name="cardview_default_radius">2dp</dimen><style name="Base.CardView" parent="android:Widget">
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style><style name="CardView" parent="Base.CardView">
+    </style><style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style><style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\c48362a1be3e136606bcb995f6611d5f\cardview-1.0.0\res\values-v23\values-v23.xml" qualifiers="v23"><style name="CardView" parent="Base.CardView">
+        <item name="cardBackgroundColor">?android:attr/colorBackgroundFloating</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.recyclerview:recyclerview:1.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\7aba90e4004d17efd973f09e4c1e07e3\recyclerview-1.0.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.recyclerview:recyclerview:1.0.0" from-dependency="true" generated-set="androidx.recyclerview:recyclerview:1.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\7aba90e4004d17efd973f09e4c1e07e3\recyclerview-1.0.0\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\7aba90e4004d17efd973f09e4c1e07e3\recyclerview-1.0.0\res\values\values.xml" qualifiers=""><declare-styleable name="RecyclerView">
+        
+        <attr format="string" name="layoutManager"/>
+
+        
+        
+        
+        <eat-comment/>
+
+        <attr name="android:orientation"/>
+        <attr name="android:descendantFocusability"/>
+        <attr format="integer" name="spanCount"/>
+        <attr format="boolean" name="reverseLayout"/>
+        <attr format="boolean" name="stackFromEnd"/>
+        <attr format="boolean" name="fastScrollEnabled"/>
+        <attr format="reference" name="fastScrollVerticalThumbDrawable"/>
+        <attr format="reference" name="fastScrollVerticalTrackDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalThumbDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
+    </declare-styleable><dimen name="fastscroll_default_thickness">8dp</dimen><dimen name="fastscroll_margin">0dp</dimen><dimen name="fastscroll_minimum_range">50dp</dimen><dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen><dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen><dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen><item name="item_touch_helper_previous_elevation" type="id"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.appcompat:appcompat:1.1.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidx.appcompat:appcompat:1.1.0" from-dependency="true" generated-set="androidx.appcompat:appcompat:1.1.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res"><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values\values.xml" qualifiers=""><attr format="reference" name="drawerArrowStyle"/><attr format="dimension" name="height"/><attr format="boolean" name="isLightTheme"/><attr format="string" name="title"/><bool name="abc_action_bar_embed_tabs">true</bool><bool name="abc_allow_stacked_button_bar">false</bool><bool name="abc_config_actionMenuItemAllCaps">true</bool><color name="abc_input_method_navigation_guard">@android:color/black</color><color name="abc_search_url_text_normal">#7fa87f</color><color name="abc_search_url_text_pressed">@android:color/black</color><color name="abc_search_url_text_selected">@android:color/black</color><color name="accent_material_dark">@color/material_deep_teal_200</color><color name="accent_material_light">@color/material_deep_teal_500</color><color name="background_floating_material_dark">@color/material_grey_800</color><color name="background_floating_material_light">@android:color/white</color><color name="background_material_dark">@color/material_grey_850</color><color name="background_material_light">@color/material_grey_50</color><color name="bright_foreground_disabled_material_dark">#80ffffff</color><color name="bright_foreground_disabled_material_light">#80000000</color><color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color><color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color><color name="bright_foreground_material_dark">@android:color/white</color><color name="bright_foreground_material_light">@android:color/black</color><color name="button_material_dark">#ff5a595b</color><color name="button_material_light">#ffd6d7d7</color><color name="dim_foreground_disabled_material_dark">#80bebebe</color><color name="dim_foreground_disabled_material_light">#80323232</color><color name="dim_foreground_material_dark">#ffbebebe</color><color name="dim_foreground_material_light">#ff323232</color><color name="error_color_material_dark">#ff7043</color><color name="error_color_material_light">#ff5722</color><color name="foreground_material_dark">@android:color/white</color><color name="foreground_material_light">@android:color/black</color><color name="highlighted_text_material_dark">#6680cbc4</color><color name="highlighted_text_material_light">#66009688</color><color name="material_blue_grey_800">#ff37474f</color><color name="material_blue_grey_900">#ff263238</color><color name="material_blue_grey_950">#ff21272b</color><color name="material_deep_teal_200">#ff80cbc4</color><color name="material_deep_teal_500">#ff008577</color><color name="material_grey_100">#fff5f5f5</color><color name="material_grey_300">#ffe0e0e0</color><color name="material_grey_50">#fffafafa</color><color name="material_grey_600">#ff757575</color><color name="material_grey_800">#ff424242</color><color name="material_grey_850">#ff303030</color><color name="material_grey_900">#ff212121</color><color name="primary_dark_material_dark">@android:color/black</color><color name="primary_dark_material_light">@color/material_grey_600</color><color name="primary_material_dark">@color/material_grey_900</color><color name="primary_material_light">@color/material_grey_100</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="primary_text_default_material_light">#de000000</color><color name="primary_text_disabled_material_dark">#4Dffffff</color><color name="primary_text_disabled_material_light">#39000000</color><color name="ripple_material_dark">#33ffffff</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_dark">#b3ffffff</color><color name="secondary_text_default_material_light">#8a000000</color><color name="secondary_text_disabled_material_dark">#36ffffff</color><color name="secondary_text_disabled_material_light">#24000000</color><color name="switch_thumb_disabled_material_dark">#ff616161</color><color name="switch_thumb_disabled_material_light">#ffbdbdbd</color><color name="switch_thumb_normal_material_dark">#ffbdbdbd</color><color name="switch_thumb_normal_material_light">#fff1f1f1</color><color name="tooltip_background_dark">#e6616161</color><color name="tooltip_background_light">#e6FFFFFF</color><dimen name="abc_action_bar_content_inset_material">16dp</dimen><dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen><dimen name="abc_action_bar_default_height_material">56dp</dimen><dimen name="abc_action_bar_default_padding_end_material">0dp</dimen><dimen name="abc_action_bar_default_padding_start_material">0dp</dimen><dimen name="abc_action_bar_elevation_material">4dp</dimen><dimen name="abc_action_bar_icon_vertical_padding_material">16dp</dimen><dimen name="abc_action_bar_overflow_padding_end_material">10dp</dimen><dimen name="abc_action_bar_overflow_padding_start_material">6dp</dimen><dimen name="abc_action_bar_stacked_max_height">48dp</dimen><dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen><dimen name="abc_action_bar_subtitle_bottom_margin_material">5dp</dimen><dimen name="abc_action_bar_subtitle_top_margin_material">-3dp</dimen><dimen name="abc_action_button_min_height_material">48dp</dimen><dimen name="abc_action_button_min_width_material">48dp</dimen><dimen name="abc_action_button_min_width_overflow_material">36dp</dimen><dimen name="abc_alert_dialog_button_bar_height">48dp</dimen><dimen name="abc_alert_dialog_button_dimen">48dp</dimen><dimen name="abc_button_inset_horizontal_material">@dimen/abc_control_inset_material</dimen><dimen name="abc_button_inset_vertical_material">6dp</dimen><dimen name="abc_button_padding_horizontal_material">8dp</dimen><dimen name="abc_button_padding_vertical_material">@dimen/abc_control_padding_material</dimen><dimen name="abc_cascading_menus_min_smallest_width">720dp</dimen><dimen name="abc_config_prefDialogWidth">320dp</dimen><dimen name="abc_control_corner_material">2dp</dimen><dimen name="abc_control_inset_material">4dp</dimen><dimen name="abc_control_padding_material">4dp</dimen><dimen name="abc_dialog_corner_radius_material">2dp</dimen><item name="abc_dialog_fixed_height_major" type="dimen">80%</item><item name="abc_dialog_fixed_height_minor" type="dimen">100%</item><item name="abc_dialog_fixed_width_major" type="dimen">320dp</item><item name="abc_dialog_fixed_width_minor" type="dimen">320dp</item><dimen name="abc_dialog_list_padding_bottom_no_buttons">8dp</dimen><dimen name="abc_dialog_list_padding_top_no_title">8dp</dimen><item name="abc_dialog_min_width_major" type="dimen">65%</item><item name="abc_dialog_min_width_minor" type="dimen">95%</item><dimen name="abc_dialog_padding_material">24dp</dimen><dimen name="abc_dialog_padding_top_material">18dp</dimen><dimen name="abc_dialog_title_divider_material">8dp</dimen><item format="float" name="abc_disabled_alpha_material_dark" type="dimen">0.30</item><item format="float" name="abc_disabled_alpha_material_light" type="dimen">0.26</item><dimen name="abc_dropdownitem_icon_width">32dip</dimen><dimen name="abc_dropdownitem_text_padding_left">8dip</dimen><dimen name="abc_dropdownitem_text_padding_right">8dip</dimen><dimen name="abc_edit_text_inset_bottom_material">7dp</dimen><dimen name="abc_edit_text_inset_horizontal_material">4dp</dimen><dimen name="abc_edit_text_inset_top_material">10dp</dimen><dimen name="abc_floating_window_z">16dp</dimen><dimen name="abc_list_item_height_large_material">80dp</dimen><dimen name="abc_list_item_height_material">64dp</dimen><dimen name="abc_list_item_height_small_material">48dp</dimen><dimen name="abc_list_item_padding_horizontal_material">@dimen/abc_action_bar_content_inset_material</dimen><dimen name="abc_panel_menu_list_width">296dp</dimen><dimen name="abc_progress_bar_height_material">4dp</dimen><dimen name="abc_search_view_preferred_height">48dip</dimen><dimen name="abc_search_view_preferred_width">320dip</dimen><dimen name="abc_seekbar_track_background_height_material">2dp</dimen><dimen name="abc_seekbar_track_progress_height_material">2dp</dimen><dimen name="abc_select_dialog_padding_start_material">20dp</dimen><dimen name="abc_switch_padding">3dp</dimen><dimen name="abc_text_size_body_1_material">14sp</dimen><dimen name="abc_text_size_body_2_material">14sp</dimen><dimen name="abc_text_size_button_material">14sp</dimen><dimen name="abc_text_size_caption_material">12sp</dimen><dimen name="abc_text_size_display_1_material">34sp</dimen><dimen name="abc_text_size_display_2_material">45sp</dimen><dimen name="abc_text_size_display_3_material">56sp</dimen><dimen name="abc_text_size_display_4_material">112sp</dimen><dimen name="abc_text_size_headline_material">24sp</dimen><dimen name="abc_text_size_large_material">22sp</dimen><dimen name="abc_text_size_medium_material">18sp</dimen><dimen name="abc_text_size_menu_header_material">14sp</dimen><dimen name="abc_text_size_menu_material">16sp</dimen><dimen name="abc_text_size_small_material">14sp</dimen><dimen name="abc_text_size_subhead_material">16sp</dimen><dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen><dimen name="abc_text_size_title_material">20sp</dimen><dimen name="abc_text_size_title_material_toolbar">20dp</dimen><item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item><item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item><item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item><item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item><item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item><item format="float" name="hint_alpha_material_dark" type="dimen">0.50</item><item format="float" name="hint_alpha_material_light" type="dimen">0.38</item><item format="float" name="hint_pressed_alpha_material_dark" type="dimen">0.70</item><item format="float" name="hint_pressed_alpha_material_light" type="dimen">0.54</item><dimen name="tooltip_corner_radius">2dp</dimen><dimen name="tooltip_horizontal_padding">16dp</dimen><dimen name="tooltip_margin">8dp</dimen><dimen name="tooltip_precise_anchor_extra_offset">8dp</dimen><dimen name="tooltip_precise_anchor_threshold">96dp</dimen><dimen name="tooltip_vertical_padding">6.5dp</dimen><dimen name="tooltip_y_offset_non_touch">0dp</dimen><dimen name="tooltip_y_offset_touch">16dp</dimen><item name="action_bar_activity_content" type="id"/><item name="action_bar_spinner" type="id"/><item name="action_menu_divider" type="id"/><item name="action_menu_presenter" type="id"/><item name="home" type="id"/><item name="progress_circular" type="id"/><item name="progress_horizontal" type="id"/><item name="split_action_bar" type="id"/><item name="up" type="id"/><integer name="abc_config_activityDefaultDur">220</integer><integer name="abc_config_activityShortDur">150</integer><integer name="cancel_button_image_alpha">127</integer><integer name="config_tooltipAnimTime">150</integer><string name="abc_action_bar_home_description">Navigate home</string><string name="abc_action_bar_up_description">Navigate up</string><string name="abc_action_menu_overflow_description">More options</string><string name="abc_action_mode_done">Done</string><string name="abc_activity_chooser_view_see_all">See all</string><string name="abc_activitychooserview_choose_application">Choose an app</string><string name="abc_capital_off">OFF</string><string name="abc_capital_on">ON</string><string name="abc_menu_alt_shortcut_label">Alt+</string><string name="abc_menu_ctrl_shortcut_label">Ctrl+</string><string name="abc_menu_delete_shortcut_label">delete</string><string name="abc_menu_enter_shortcut_label">enter</string><string name="abc_menu_function_shortcut_label">Function+</string><string name="abc_menu_meta_shortcut_label">Meta+</string><string name="abc_menu_shift_shortcut_label">Shift+</string><string name="abc_menu_space_shortcut_label">space</string><string name="abc_menu_sym_shortcut_label">Sym+</string><string name="abc_prepend_shortcut_label">Menu+</string><string name="abc_search_hint">Search…</string><string name="abc_searchview_description_clear">Clear query</string><string name="abc_searchview_description_query">Search query</string><string name="abc_searchview_description_search">Search</string><string name="abc_searchview_description_submit">Submit query</string><string name="abc_searchview_description_voice">Voice search</string><string name="abc_shareactionprovider_share_with">Share with</string><string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string><string name="abc_toolbar_collapse_description">Collapse</string><string name="search_menu_title">Search</string><style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/><style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/><style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/><style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/><style name="Animation.AppCompat.Tooltip" parent="Base.Animation.AppCompat.Tooltip"/><style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
         <item name="listLayout">@layout/abc_select_dialog_material</item>
         <item name="listItemLayout">@layout/select_dialog_item_material</item>
@@ -2680,12 +2920,12 @@
     </style><style name="Base.ThemeOverlay.AppCompat.Dialog" parent="Base.V21.ThemeOverlay.AppCompat.Dialog">
         <item name="android:windowIsFloating">false</item>
         <item name="android:windowElevation">0dp</item>
-    </style></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-xlarge-v4\values-xlarge-v4.xml" qualifiers="xlarge-v4"><item name="abc_dialog_fixed_height_major" type="dimen">60%</item><item name="abc_dialog_fixed_height_minor" type="dimen">90%</item><item name="abc_dialog_fixed_width_major" type="dimen">50%</item><item name="abc_dialog_fixed_width_minor" type="dimen">70%</item><item name="abc_dialog_min_width_major" type="dimen">45%</item><item name="abc_dialog_min_width_minor" type="dimen">72%</item></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7903180715631665059" name="abc_action_bar_home_description">"转到首页"</string><string msgid="6794660482873516081" name="abc_action_bar_up_description">"转到上一层级"</string><string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"更多选项"</string><string msgid="2571498368472823490" name="abc_action_mode_done">"完成"</string><string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"查看全部"</string><string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"选择应用"</string><string msgid="3403923230105792483" name="abc_capital_off">"关闭"</string><string msgid="7831734969929204599" name="abc_capital_on">"开启"</string><string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string><string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string><string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete 键"</string><string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter 键"</string><string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn+"</string><string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string><string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string><string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"空格键"</string><string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string><string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string><string msgid="940844115270746197" name="abc_search_hint">"搜索…"</string><string msgid="1769270744562318534" name="abc_searchview_description_clear">"清除查询"</string><string msgid="908784302972860853" name="abc_searchview_description_query">"搜索查询"</string><string msgid="5466662225065974044" name="abc_searchview_description_search">"搜索"</string><string msgid="8203855622131699655" name="abc_searchview_description_submit">"提交查询"</string><string msgid="3478748990613108725" name="abc_searchview_description_voice">"语音搜索"</string><string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"分享对象"</string><string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"与<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string><string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"收起"</string><string msgid="730395136688082741" name="search_menu_title">"搜索"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7903180715631665059" name="abc_action_bar_home_description">"瀏覽主頁"</string><string msgid="6794660482873516081" name="abc_action_bar_up_description">"向上瀏覽"</string><string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"更多選項"</string><string msgid="2571498368472823490" name="abc_action_mode_done">"完成"</string><string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"查看全部"</string><string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"選擇應用程式"</string><string msgid="3403923230105792483" name="abc_capital_off">"關閉"</string><string msgid="7831734969929204599" name="abc_capital_on">"開啟"</string><string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string><string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string><string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"刪除"</string><string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string><string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn +"</string><string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string><string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string><string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"空白鍵"</string><string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string><string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu +"</string><string msgid="940844115270746197" name="abc_search_hint">"搜尋…"</string><string msgid="1769270744562318534" name="abc_searchview_description_clear">"清除查詢"</string><string msgid="908784302972860853" name="abc_searchview_description_query">"搜尋查詢"</string><string msgid="5466662225065974044" name="abc_searchview_description_search">"搜尋"</string><string msgid="8203855622131699655" name="abc_searchview_description_submit">"提交查詢"</string><string msgid="3478748990613108725" name="abc_searchview_description_voice">"語音搜尋"</string><string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"分享對象"</string><string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string><string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"收合"</string><string msgid="730395136688082741" name="search_menu_title">"搜尋"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7903180715631665059" name="abc_action_bar_home_description">"瀏覽首頁"</string><string msgid="6794660482873516081" name="abc_action_bar_up_description">"向上瀏覽"</string><string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"更多選項"</string><string msgid="2571498368472823490" name="abc_action_mode_done">"完成"</string><string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"查看全部"</string><string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"選擇應用程式"</string><string msgid="3403923230105792483" name="abc_capital_off">"關閉"</string><string msgid="7831734969929204599" name="abc_capital_on">"開啟"</string><string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string><string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string><string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string><string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string><string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn +"</string><string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string><string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string><string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"空格鍵"</string><string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string><string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu +"</string><string msgid="940844115270746197" name="abc_search_hint">"搜尋…"</string><string msgid="1769270744562318534" name="abc_searchview_description_clear">"清除查詢"</string><string msgid="908784302972860853" name="abc_searchview_description_query">"搜尋查詢"</string><string msgid="5466662225065974044" name="abc_searchview_description_search">"搜尋"</string><string msgid="8203855622131699655" name="abc_searchview_description_submit">"提交查詢"</string><string msgid="3478748990613108725" name="abc_searchview_description_voice">"語音搜尋"</string><string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"分享對象"</string><string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string><string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"收合"</string><string msgid="730395136688082741" name="search_menu_title">"搜尋"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="7903180715631665059" name="abc_action_bar_home_description">"Zulazulela ekhaya"</string><string msgid="6794660482873516081" name="abc_action_bar_up_description">"Zulazulela phezulu"</string><string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Ezinye izinketho"</string><string msgid="2571498368472823490" name="abc_action_mode_done">"Kwenziwe"</string><string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Buka konke"</string><string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Khetha insiza"</string><string msgid="3403923230105792483" name="abc_capital_off">"VALA"</string><string msgid="7831734969929204599" name="abc_capital_on">"VULA"</string><string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string><string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string><string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string><string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string><string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string><string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string><string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string><string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string><string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string><string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Imenyu+"</string><string msgid="940844115270746197" name="abc_search_hint">"Sesha…"</string><string msgid="1769270744562318534" name="abc_searchview_description_clear">"Sula inkinga"</string><string msgid="908784302972860853" name="abc_searchview_description_query">"Sesha umbuzo"</string><string msgid="5466662225065974044" name="abc_searchview_description_search">"Sesha"</string><string msgid="8203855622131699655" name="abc_searchview_description_submit">"Thumela umbuzo"</string><string msgid="3478748990613108725" name="abc_searchview_description_voice">"Ukusesha ngezwi"</string><string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Yabelana no"</string><string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Yabelana ne-<ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string><string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Goqa"</string><string msgid="730395136688082741" name="search_menu_title">"Sesha"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Android\Imagens\app\src\main\res"/><source path="D:\Android\Imagens\app\build\generated\res\rs\debug"/><source path="D:\Android\Imagens\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Android\Imagens\app\src\main\res"><file name="abacaxi" path="D:\Android\Imagens\app\src\main\res\drawable\abacaxi.png" qualifiers="" type="drawable"/><file name="banana" path="D:\Android\Imagens\app\src\main\res\drawable\banana.png" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="D:\Android\Imagens\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="laranja" path="D:\Android\Imagens\app\src\main\res\drawable\laranja.png" qualifiers="" type="drawable"/><file name="manga" path="D:\Android\Imagens\app\src\main\res\drawable\manga.png" qualifiers="" type="drawable"/><file name="melancia" path="D:\Android\Imagens\app\src\main\res\drawable\melancia.png" qualifiers="" type="drawable"/><file name="morango" path="D:\Android\Imagens\app\src\main\res\drawable\morango.png" qualifiers="" type="drawable"/><file name="uva" path="D:\Android\Imagens\app\src\main\res\drawable\uva.png" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="D:\Android\Imagens\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="activity_fruit_information" path="D:\Android\Imagens\app\src\main\res\layout\activity_fruit_information.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\Android\Imagens\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="D:\Android\Imagens\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="D:\Android\Imagens\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="D:\Android\Imagens\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Android\Imagens\app\src\main\res\mipmap-hdpi\ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Android\Imagens\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Android\Imagens\app\src\main\res\mipmap-mdpi\ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Android\Imagens\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Android\Imagens\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Android\Imagens\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Android\Imagens\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\Android\Imagens\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\Android\Imagens\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="D:\Android\Imagens\app\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">#008577</color><color name="colorPrimaryDark">#00574B</color><color name="colorAccent">#D81B60</color><color name="color_manga">#FFD600</color><color name="color_abacaxi">#FDD291</color><color name="color_banana">#F6EA7E</color><color name="color_morango">#FF1414</color><color name="color_melancia">#F85D5D</color></file><file path="D:\Android\Imagens\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="dimens200dp">200dp</dimen></file><file path="D:\Android\Imagens\app\src\main\res\values\refs.xml" qualifiers=""/><file path="D:\Android\Imagens\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Imagens</string><string name="txt_banana" translatable="false">Banana</string><string name="txt_mudaimagem" translatable="false">Muda Imagem</string><string name="txt_abacaxi" translatable="false">Abacaxi</string><string name="txt_manga" translatable="false">Manga</string><string name="txt_morango" translatable="false">Morango</string><string name="txt_melancia" translatable="false">Melancia</string><string name="abacaxi_info" translatable="false">O abacaxi, conhecido em Portugal como ananás, é uma infrutescência tropical produzida pela planta de mesmo nome, caracterizada como uma planta monocotiledônea da família das bromeliáceas da subfamília Bromelioideae. É um símbolo das regiões tropicais e subtropicais.</string><string name="morango_info">Morango é considerado, na linguagem vulgar, como o fruto vermelho do morangueiro, da família das rosáceas. No entanto, em termos científicos não se pode considerar um fruto já que é constituído pelo receptáculo da flor original, em volta do qual se dispõem os frutos</string><string name="banana_info" translatable="false">Banana, pacoba ou pacova é uma pseudobaga da bananeira, uma planta herbácea vivaz acaule da família Musaceae. São cultivadas em 130 países. Originárias do sudeste da Ásia são atualmente cultivadas em praticamente todas as regiões tropicais do planeta.</string><string name="melancia_info">Melancia é uma planta da família Cucurbitaceae e do seu fruto. Trata-se de uma trepadeira rastejante originária da África.</string><string name="manga_info">A manga é o fruto da mangueira, árvore frutífera da família Anacardiaceae, nativa do sul e do sudeste asiático desde o leste da Índia até as Filipinas, e introduzida com sucesso no Brasil, em Angola, em Moçambique e em outros países tropicais.</string></file><file path="D:\Android\Imagens\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-xlarge-v4\values-xlarge-v4.xml" qualifiers="xlarge-v4"><item name="abc_dialog_fixed_height_major" type="dimen">60%</item><item name="abc_dialog_fixed_height_minor" type="dimen">90%</item><item name="abc_dialog_fixed_width_major" type="dimen">50%</item><item name="abc_dialog_fixed_width_minor" type="dimen">70%</item><item name="abc_dialog_min_width_major" type="dimen">45%</item><item name="abc_dialog_min_width_minor" type="dimen">72%</item></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-zh-rCN\values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7903180715631665059" name="abc_action_bar_home_description">"转到首页"</string><string msgid="6794660482873516081" name="abc_action_bar_up_description">"转到上一层级"</string><string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"更多选项"</string><string msgid="2571498368472823490" name="abc_action_mode_done">"完成"</string><string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"查看全部"</string><string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"选择应用"</string><string msgid="3403923230105792483" name="abc_capital_off">"关闭"</string><string msgid="7831734969929204599" name="abc_capital_on">"开启"</string><string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string><string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string><string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete 键"</string><string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter 键"</string><string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn+"</string><string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string><string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string><string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"空格键"</string><string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string><string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string><string msgid="940844115270746197" name="abc_search_hint">"搜索…"</string><string msgid="1769270744562318534" name="abc_searchview_description_clear">"清除查询"</string><string msgid="908784302972860853" name="abc_searchview_description_query">"搜索查询"</string><string msgid="5466662225065974044" name="abc_searchview_description_search">"搜索"</string><string msgid="8203855622131699655" name="abc_searchview_description_submit">"提交查询"</string><string msgid="3478748990613108725" name="abc_searchview_description_voice">"语音搜索"</string><string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"分享对象"</string><string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"与<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string><string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"收起"</string><string msgid="730395136688082741" name="search_menu_title">"搜索"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-zh-rHK\values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7903180715631665059" name="abc_action_bar_home_description">"瀏覽主頁"</string><string msgid="6794660482873516081" name="abc_action_bar_up_description">"向上瀏覽"</string><string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"更多選項"</string><string msgid="2571498368472823490" name="abc_action_mode_done">"完成"</string><string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"查看全部"</string><string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"選擇應用程式"</string><string msgid="3403923230105792483" name="abc_capital_off">"關閉"</string><string msgid="7831734969929204599" name="abc_capital_on">"開啟"</string><string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string><string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string><string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"刪除"</string><string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string><string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn +"</string><string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string><string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string><string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"空白鍵"</string><string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string><string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu +"</string><string msgid="940844115270746197" name="abc_search_hint">"搜尋…"</string><string msgid="1769270744562318534" name="abc_searchview_description_clear">"清除查詢"</string><string msgid="908784302972860853" name="abc_searchview_description_query">"搜尋查詢"</string><string msgid="5466662225065974044" name="abc_searchview_description_search">"搜尋"</string><string msgid="8203855622131699655" name="abc_searchview_description_submit">"提交查詢"</string><string msgid="3478748990613108725" name="abc_searchview_description_voice">"語音搜尋"</string><string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"分享對象"</string><string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string><string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"收合"</string><string msgid="730395136688082741" name="search_menu_title">"搜尋"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-zh-rTW\values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7903180715631665059" name="abc_action_bar_home_description">"瀏覽首頁"</string><string msgid="6794660482873516081" name="abc_action_bar_up_description">"向上瀏覽"</string><string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"更多選項"</string><string msgid="2571498368472823490" name="abc_action_mode_done">"完成"</string><string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"查看全部"</string><string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"選擇應用程式"</string><string msgid="3403923230105792483" name="abc_capital_off">"關閉"</string><string msgid="7831734969929204599" name="abc_capital_on">"開啟"</string><string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string><string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string><string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string><string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string><string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn +"</string><string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string><string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string><string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"空格鍵"</string><string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string><string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu +"</string><string msgid="940844115270746197" name="abc_search_hint">"搜尋…"</string><string msgid="1769270744562318534" name="abc_searchview_description_clear">"清除查詢"</string><string msgid="908784302972860853" name="abc_searchview_description_query">"搜尋查詢"</string><string msgid="5466662225065974044" name="abc_searchview_description_search">"搜尋"</string><string msgid="8203855622131699655" name="abc_searchview_description_submit">"提交查詢"</string><string msgid="3478748990613108725" name="abc_searchview_description_voice">"語音搜尋"</string><string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"分享對象"</string><string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string><string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"收合"</string><string msgid="730395136688082741" name="search_menu_title">"搜尋"</string></file><file path="C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\e1529001cc3f60caa67b576fc6c00231\appcompat-1.1.0\res\values-zu\values-zu.xml" qualifiers="zu"><string msgid="7903180715631665059" name="abc_action_bar_home_description">"Zulazulela ekhaya"</string><string msgid="6794660482873516081" name="abc_action_bar_up_description">"Zulazulela phezulu"</string><string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Ezinye izinketho"</string><string msgid="2571498368472823490" name="abc_action_mode_done">"Kwenziwe"</string><string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Buka konke"</string><string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Khetha insiza"</string><string msgid="3403923230105792483" name="abc_capital_off">"VALA"</string><string msgid="7831734969929204599" name="abc_capital_on">"VULA"</string><string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string><string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string><string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string><string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string><string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string><string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string><string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string><string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string><string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string><string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Imenyu+"</string><string msgid="940844115270746197" name="abc_search_hint">"Sesha…"</string><string msgid="1769270744562318534" name="abc_searchview_description_clear">"Sula inkinga"</string><string msgid="908784302972860853" name="abc_searchview_description_query">"Sesha umbuzo"</string><string msgid="5466662225065974044" name="abc_searchview_description_search">"Sesha"</string><string msgid="8203855622131699655" name="abc_searchview_description_submit">"Thumela umbuzo"</string><string msgid="3478748990613108725" name="abc_searchview_description_voice">"Ukusesha ngezwi"</string><string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Yabelana no"</string><string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Yabelana ne-<ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string><string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Goqa"</string><string msgid="730395136688082741" name="search_menu_title">"Sesha"</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res"/><source path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\build\generated\res\rs\debug"/><source path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res"><file name="abacaxi" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\abacaxi.png" qualifiers="" type="drawable"/><file name="banana" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\banana.png" qualifiers="" type="drawable"/><file name="iconeapp" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\iconeapp.png" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="laranja" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\laranja.png" qualifiers="" type="drawable"/><file name="manga" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\manga.png" qualifiers="" type="drawable"/><file name="melancia" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\melancia.png" qualifiers="" type="drawable"/><file name="morango" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\morango.png" qualifiers="" type="drawable"/><file name="uva" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable\uva.png" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="activity_fruit_information" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\layout\activity_fruit_information.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="row" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\layout\row.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-hdpi\ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-mdpi\ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">#008577</color><color name="colorPrimaryDark">#00574B</color><color name="colorAccent">#D81B60</color><color name="color_banana">#F6EA7E</color><color name="color_abacaxi">#FDD291</color><color name="color_manga">#FFD600</color><color name="color_melancia">#F85D5D</color><color name="color_morango">#F2FF4545</color><color name="preto">#000</color><color name="cinza">#717171</color><color name="color_uva">#B044FD</color><color name="color_laranja">#FF7F57</color></file><file path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="dimens200dp">200dp</dimen></file><file path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\values\refs.xml" qualifiers=""/><file path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">FruitFruiter</string><string name="txt_mudaimagem" translatable="false">Muda Imagem</string><string name="txt_banana" translatable="false">Banana</string><string name="txt_abacaxi" translatable="false">Abacaxi</string><string name="txt_manga" translatable="false">Manga</string><string name="txt_morango" translatable="false">Morango</string><string name="txt_melancia" translatable="false">Melancia</string><string name="txt_laranja" translatable="false">Laranja</string><string name="txt_uva" translatable="false">Uva</string><string name="banana_info" translatable="false">Banana, pacoba ou pacova é uma pseudobaga da bananeira, uma planta herbácea vivaz acaule da família Musaceae. São cultivadas em 130 países. Originárias do sudeste da Ásia são atualmente cultivadas em praticamente todas as regiões tropicais do planeta.</string><string name="abacaxi_info" translatable="false">O abacaxi, conhecido em Portugal como ananás, é uma infrutescência tropical produzida pela planta de mesmo nome, caracterizada como uma planta monocotiledônea da família das bromeliáceas da subfamília Bromelioideae. É um símbolo das regiões tropicais e subtropicais.</string><string name="manga_info" translatable="false">A manga é o fruto da mangueira, árvore frutífera da família Anacardiaceae, nativa do sul e do sudeste asiático desde o leste da Índia até as Filipinas, e introduzida com sucesso no Brasil, em Angola, em Moçambique e em outros países tropicais.</string><string name="morango_info" translatable="false">Morango é considerado, na linguagem vulgar, como o fruto vermelho do morangueiro, da família das rosáceas. No entanto, em termos científicos não se pode considerar um fruto já que é constituído pelo receptáculo da flor original, em volta do qual se dispõem os frutos</string><string name="melancia_info" translatable="false">Melancia é uma planta da família Cucurbitaceae e do seu fruto. Trata-se de uma trepadeira rastejante originária da África.</string></file><file path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-    </style></file><file path="D:\Android\Imagens\app\src\main\res\values-en\strings.xml" qualifiers="en"><string name="app_name">Imagens</string></file></source><source path="D:\Android\Imagens\app\build\generated\res\rs\debug"/><source path="D:\Android\Imagens\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Android\Imagens\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\Android\Imagens\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
+    </style></file><file path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\res\values-en\strings.xml" qualifiers="en"><string name="app_name">Imagens</string></file></source><source path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\build\generated\res\rs\debug"/><source path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
         <attr name="android:layout"/>
         <attr format="reference" name="buttonPanelSideLayout"/>
         <attr format="reference" name="listLayout"/>
@@ -2714,6 +2954,83 @@
             <enum name="screen" value="15"/>
             
             <enum name="add" value="16"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
         </attr>
     </declare-styleable><declare-styleable name="GradientColor">
         
@@ -2747,87 +3064,11 @@
 
         
         <attr name="android:tileMode"/>
-    </declare-styleable><declare-styleable name="AnimatedStateListDrawableCompat">
-        
-        <attr name="android:visible"/>
-        
-        <attr name="android:variablePadding"/>
-        
-        <attr name="android:constantSize"/>
-        
-        <attr name="android:dither"/>
-        
-        <attr name="android:enterFadeDuration"/>
-        
-        <attr name="android:exitFadeDuration"/>
-        
-        
-    </declare-styleable><declare-styleable name="ColorStateListItem">
-        
-        <attr name="android:color"/>
-        
-        <attr format="float" name="alpha"/>
-        <attr name="android:alpha"/>
-    </declare-styleable><declare-styleable name="Spinner">
-        
-        <attr name="android:prompt"/>
-        
-        <attr name="popupTheme"/>
-        
-        <attr name="android:popupBackground"/>
-        
-        <attr name="android:dropDownWidth"/>
-        
-        <attr name="android:entries"/>
-    </declare-styleable><declare-styleable name="ConstraintLayout_placeholder"><attr name="emptyVisibility"/><attr name="content"/></declare-styleable><declare-styleable name="PopupWindow">
-        
-        <attr format="boolean" name="overlapAnchor"/>
-        <attr name="android:popupBackground"/>
-        <attr name="android:popupAnimationStyle"/>
     </declare-styleable><declare-styleable name="AnimatedStateListDrawableItem">
         
         <attr name="android:drawable"/>
         
         <attr name="android:id"/>
-    </declare-styleable><declare-styleable name="DrawerArrowToggle">
-        
-        <attr format="color" name="color"/>
-        
-        <attr format="boolean" name="spinBars"/>
-        
-        <attr format="dimension" name="drawableSize"/>
-        
-        <attr format="dimension" name="gapBetweenBars"/>
-        
-        <attr format="dimension" name="arrowHeadLength"/>
-        
-        <attr format="dimension" name="arrowShaftLength"/>
-        
-        <attr format="dimension" name="barLength"/>
-        
-        <attr format="dimension" name="thickness"/>
-    </declare-styleable><declare-styleable name="ActionBarLayout">
-        <attr name="android:layout_gravity"/>
-    </declare-styleable><declare-styleable name="StateListDrawable">
-        
-        <attr name="android:visible"/>
-        
-        <attr name="android:variablePadding"/>
-        
-        <attr name="android:constantSize"/>
-        
-        <attr name="android:dither"/>
-        
-        <attr name="android:enterFadeDuration"/>
-        
-        <attr name="android:exitFadeDuration"/>
-        
-        
-    </declare-styleable><declare-styleable name="ActivityChooserView">
-        
-        <attr format="string" name="initialActivityCount"/>
-        
-        <attr format="reference" name="expandActivityOverflowButtonDrawable"/>
     </declare-styleable><declare-styleable name="GradientColorItem">
         
         <attr name="android:offset"/>
@@ -3191,36 +3432,6 @@
         
         <attr format="reference" name="listChoiceIndicatorSingleAnimated"/>
 
-    </declare-styleable><declare-styleable name="ViewStubCompat">
-        
-        <attr name="android:layout"/>
-        
-        <attr name="android:inflatedId"/>
-        <attr name="android:id"/>
-    </declare-styleable><declare-styleable name="ListPopupWindow">
-        
-        <attr name="android:dropDownVerticalOffset"/>
-        
-        <attr name="android:dropDownHorizontalOffset"/>
-    </declare-styleable><declare-styleable name="TextAppearance">
-        <attr name="android:textSize"/>
-        <attr name="android:textColor"/>
-        <attr name="android:textColorHint"/>
-        <attr name="android:textColorLink"/>
-        <attr name="android:textStyle"/>
-        <attr name="android:textFontWeight"/>
-        <attr name="android:typeface"/>
-        <attr name="android:fontFamily"/>
-        <attr name="fontFamily"/>
-        <attr name="textAllCaps"/>
-        
-        <attr name="textLocale"/>
-        <attr name="android:shadowColor"/>
-        <attr name="android:shadowDy"/>
-        <attr name="android:shadowDx"/>
-        <attr name="android:shadowRadius"/>
-        
-        <attr name="fontVariationSettings"/>
     </declare-styleable><declare-styleable name="MenuView">
         
         <attr name="android:itemTextAppearance"/>
@@ -3319,26 +3530,6 @@
         <attr format="dimension" name="elevation"/>
         
         <attr format="reference" name="popupTheme"/>
-    </declare-styleable><declare-styleable name="MenuGroup">
-
-        
-        <attr name="android:id"/>
-
-        
-        <attr name="android:menuCategory"/>
-
-        
-        <attr name="android:orderInCategory"/>
-
-        
-        <attr name="android:checkableBehavior"/>
-
-        
-        <attr name="android:visible"/>
-
-        
-        <attr name="android:enabled"/>
-
     </declare-styleable><declare-styleable name="ActionMenuItemView">
         <attr name="android:minWidth"/>
     </declare-styleable><declare-styleable name="Toolbar">
@@ -3400,27 +3591,6 @@
         <attr name="android:layout_height"/>
         <attr name="android:layout_weight"/>
         <attr name="android:layout_gravity"/>
-    </declare-styleable><declare-styleable name="FontFamily">
-        
-        <attr format="string" name="fontProviderAuthority"/>
-        
-        <attr format="string" name="fontProviderPackage"/>
-        
-        <attr format="string" name="fontProviderQuery"/>
-        
-        <attr format="reference" name="fontProviderCerts"/>
-        
-        <attr name="fontProviderFetchStrategy">
-            
-            <enum name="blocking" value="0"/>
-            
-            <enum name="async" value="1"/>
-        </attr>
-        
-        <attr format="integer" name="fontProviderFetchTimeout">
-            
-            <enum name="forever" value="-1"/>
-        </attr>
     </declare-styleable><declare-styleable name="StateListDrawableItem">
         
         <attr name="android:drawable"/>
@@ -3478,6 +3648,328 @@
             <enum name="screen" value="15"/>
             
             <enum name="add" value="16"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CardView">
+        
+        <attr format="color" name="cardBackgroundColor"/>
+        
+        <attr format="dimension" name="cardCornerRadius"/>
+        
+        <attr format="dimension" name="cardElevation"/>
+        
+        <attr format="dimension" name="cardMaxElevation"/>
+        
+        <attr format="boolean" name="cardUseCompatPadding"/>
+        
+        <attr format="boolean" name="cardPreventCornerOverlap"/>
+        
+        <attr format="dimension" name="contentPadding"/>
+        
+        <attr format="dimension" name="contentPaddingLeft"/>
+        
+        <attr format="dimension" name="contentPaddingRight"/>
+        
+        <attr format="dimension" name="contentPaddingTop"/>
+        
+        <attr format="dimension" name="contentPaddingBottom"/>
+        
+        <attr name="android:minWidth"/>
+        
+        <attr name="android:minHeight"/>
+    </declare-styleable><declare-styleable name="ButtonBarLayout">
+        
+        <attr format="boolean" name="allowStacking"/>
+    </declare-styleable><declare-styleable name="ViewBackgroundHelper">
+        <attr name="android:background"/>
+        
+        <attr format="color" name="backgroundTint"/>
+
+        
+        <attr name="backgroundTintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ConstraintSet"><attr name="android:orientation"/><attr name="android:id"/><attr name="android:visibility"/><attr name="android:alpha"/><attr name="android:elevation"/><attr name="android:rotation"/><attr name="android:rotationX"/><attr name="android:rotationY"/><attr name="android:scaleX"/><attr name="android:scaleY"/><attr name="android:transformPivotX"/><attr name="android:transformPivotY"/><attr name="android:translationX"/><attr name="android:translationY"/><attr name="android:translationZ"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_marginStart"/><attr name="android:layout_marginBottom"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginEnd"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/><attr name="barrierDirection"/><attr name="constraint_referenced_ids"/><attr name="android:maxHeight"/><attr name="android:maxWidth"/><attr name="android:minHeight"/><attr name="android:minWidth"/><attr name="barrierAllowsGoneWidgets"/><attr name="chainUseRtl"/></declare-styleable><declare-styleable name="AppCompatImageView">
+        <attr name="android:src"/>
+        
+        <attr format="reference" name="srcCompat"/>
+
+        
+        <attr format="color" name="tint"/>
+
+        
+        <attr name="tintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ConstraintLayout_Layout"><attr name="android:orientation"/><attr name="android:minWidth"/><attr name="android:minHeight"/><attr name="android:maxWidth"/><attr name="android:maxHeight"/><attr name="layout_optimizationLevel"/><attr name="constraintSet"/><attr name="barrierDirection"/><attr name="barrierAllowsGoneWidgets"/><attr name="constraint_referenced_ids"/><attr name="chainUseRtl"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable><declare-styleable name="PopupWindowBackgroundState">
+        
+        <attr format="boolean" name="state_above_anchor"/>
+    </declare-styleable><declare-styleable name="ActionMode">
+        
+        <attr name="titleTextStyle"/>
+        
+        <attr name="subtitleTextStyle"/>
+        
+        <attr name="background"/>
+        
+        <attr name="backgroundSplit"/>
+        
+        <attr name="height"/>
+        
+        <attr format="reference" name="closeItemLayout"/>
+    </declare-styleable><declare-styleable name="SwitchCompat">
+        
+        <attr name="android:thumb"/>
+        
+        <attr format="color" name="thumbTint"/>
+        
+        <attr name="thumbTintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+        
+        <attr format="reference" name="track"/>
+        
+        <attr format="color" name="trackTint"/>
+        
+        <attr name="trackTintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+        
+        <attr name="android:textOn"/>
+        
+        <attr name="android:textOff"/>
+        
+        <attr format="dimension" name="thumbTextPadding"/>
+        
+        <attr format="reference" name="switchTextAppearance"/>
+        
+        <attr format="dimension" name="switchMinWidth"/>
+        
+        <attr format="dimension" name="switchPadding"/>
+        
+        <attr format="boolean" name="splitTrack"/>
+        
+        <attr format="boolean" name="showText"/>
+    </declare-styleable><declare-styleable name="AnimatedStateListDrawableCompat">
+        
+        <attr name="android:visible"/>
+        
+        <attr name="android:variablePadding"/>
+        
+        <attr name="android:constantSize"/>
+        
+        <attr name="android:dither"/>
+        
+        <attr name="android:enterFadeDuration"/>
+        
+        <attr name="android:exitFadeDuration"/>
+        
+        
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="Spinner">
+        
+        <attr name="android:prompt"/>
+        
+        <attr name="popupTheme"/>
+        
+        <attr name="android:popupBackground"/>
+        
+        <attr name="android:dropDownWidth"/>
+        
+        <attr name="android:entries"/>
+    </declare-styleable><declare-styleable name="ConstraintLayout_placeholder"><attr name="emptyVisibility"/><attr name="content"/></declare-styleable><declare-styleable name="PopupWindow">
+        
+        <attr format="boolean" name="overlapAnchor"/>
+        <attr name="android:popupBackground"/>
+        <attr name="android:popupAnimationStyle"/>
+    </declare-styleable><declare-styleable name="DrawerArrowToggle">
+        
+        <attr format="color" name="color"/>
+        
+        <attr format="boolean" name="spinBars"/>
+        
+        <attr format="dimension" name="drawableSize"/>
+        
+        <attr format="dimension" name="gapBetweenBars"/>
+        
+        <attr format="dimension" name="arrowHeadLength"/>
+        
+        <attr format="dimension" name="arrowShaftLength"/>
+        
+        <attr format="dimension" name="barLength"/>
+        
+        <attr format="dimension" name="thickness"/>
+    </declare-styleable><declare-styleable name="ActionBarLayout">
+        <attr name="android:layout_gravity"/>
+    </declare-styleable><declare-styleable name="StateListDrawable">
+        
+        <attr name="android:visible"/>
+        
+        <attr name="android:variablePadding"/>
+        
+        <attr name="android:constantSize"/>
+        
+        <attr name="android:dither"/>
+        
+        <attr name="android:enterFadeDuration"/>
+        
+        <attr name="android:exitFadeDuration"/>
+        
+        
+    </declare-styleable><declare-styleable name="ActivityChooserView">
+        
+        <attr format="string" name="initialActivityCount"/>
+        
+        <attr format="reference" name="expandActivityOverflowButtonDrawable"/>
+    </declare-styleable><declare-styleable name="GridLayout">
+
+        
+
+
+        
+        <attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="rowCount"/>
+        
+        <attr format="integer" name="columnCount"/>
+        
+        <attr format="boolean" name="useDefaultMargins"/>
+        
+        <attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr>
+        
+        <attr format="boolean" name="rowOrderPreserved"/>
+        
+        <attr format="boolean" name="columnOrderPreserved"/>
+    </declare-styleable><declare-styleable name="ViewStubCompat">
+        
+        <attr name="android:layout"/>
+        
+        <attr name="android:inflatedId"/>
+        <attr name="android:id"/>
+    </declare-styleable><declare-styleable name="ListPopupWindow">
+        
+        <attr name="android:dropDownVerticalOffset"/>
+        
+        <attr name="android:dropDownHorizontalOffset"/>
+    </declare-styleable><declare-styleable name="TextAppearance">
+        <attr name="android:textSize"/>
+        <attr name="android:textColor"/>
+        <attr name="android:textColorHint"/>
+        <attr name="android:textColorLink"/>
+        <attr name="android:textStyle"/>
+        <attr name="android:textFontWeight"/>
+        <attr name="android:typeface"/>
+        <attr name="android:fontFamily"/>
+        <attr name="fontFamily"/>
+        <attr name="textAllCaps"/>
+        
+        <attr name="textLocale"/>
+        <attr name="android:shadowColor"/>
+        <attr name="android:shadowDy"/>
+        <attr name="android:shadowDx"/>
+        <attr name="android:shadowRadius"/>
+        
+        <attr name="fontVariationSettings"/>
+    </declare-styleable><declare-styleable name="MenuGroup">
+
+        
+        <attr name="android:id"/>
+
+        
+        <attr name="android:menuCategory"/>
+
+        
+        <attr name="android:orderInCategory"/>
+
+        
+        <attr name="android:checkableBehavior"/>
+
+        
+        <attr name="android:visible"/>
+
+        
+        <attr name="android:enabled"/>
+
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
         </attr>
     </declare-styleable><declare-styleable name="MenuItem">
 
@@ -3588,30 +4080,7 @@
             <enum name="add" value="16"/>
         </attr>
 
-    </declare-styleable><declare-styleable name="ButtonBarLayout">
-        
-        <attr format="boolean" name="allowStacking"/>
-    </declare-styleable><declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable><declare-styleable name="ViewBackgroundHelper">
-        <attr name="android:background"/>
-        
-        <attr format="color" name="backgroundTint"/>
-
-        
-        <attr name="backgroundTintMode">
-            
-            <enum name="src_over" value="3"/>
-            
-            <enum name="src_in" value="5"/>
-            
-            <enum name="src_atop" value="9"/>
-            
-            <enum name="multiply" value="14"/>
-            
-            <enum name="screen" value="15"/>
-            
-            <enum name="add" value="16"/>
-        </attr>
-    </declare-styleable><declare-styleable name="AnimatedStateListDrawableTransition">
+    </declare-styleable><declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable><declare-styleable name="AnimatedStateListDrawableTransition">
         
         <attr name="android:fromId"/>
         
@@ -3620,29 +4089,6 @@
         <attr name="android:drawable"/>
         
         <attr name="android:reversible"/>
-    </declare-styleable><declare-styleable name="ConstraintSet"><attr name="android:orientation"/><attr name="android:id"/><attr name="android:visibility"/><attr name="android:alpha"/><attr name="android:elevation"/><attr name="android:rotation"/><attr name="android:rotationX"/><attr name="android:rotationY"/><attr name="android:scaleX"/><attr name="android:scaleY"/><attr name="android:transformPivotX"/><attr name="android:transformPivotY"/><attr name="android:translationX"/><attr name="android:translationY"/><attr name="android:translationZ"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_marginStart"/><attr name="android:layout_marginBottom"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginEnd"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/><attr name="barrierDirection"/><attr name="constraint_referenced_ids"/><attr name="android:maxHeight"/><attr name="android:maxWidth"/><attr name="android:minHeight"/><attr name="android:minWidth"/><attr name="barrierAllowsGoneWidgets"/><attr name="chainUseRtl"/></declare-styleable><declare-styleable name="AppCompatImageView">
-        <attr name="android:src"/>
-        
-        <attr format="reference" name="srcCompat"/>
-
-        
-        <attr format="color" name="tint"/>
-
-        
-        <attr name="tintMode">
-            
-            <enum name="src_over" value="3"/>
-            
-            <enum name="src_in" value="5"/>
-            
-            <enum name="src_atop" value="9"/>
-            
-            <enum name="multiply" value="14"/>
-            
-            <enum name="screen" value="15"/>
-            
-            <enum name="add" value="16"/>
-        </attr>
     </declare-styleable><declare-styleable name="View">
         
         <attr format="dimension" name="paddingStart"/>
@@ -3654,9 +4100,77 @@
         <attr format="reference" name="theme"/>
         
         <attr name="android:theme"/>
-    </declare-styleable><declare-styleable name="ConstraintLayout_Layout"><attr name="android:orientation"/><attr name="android:minWidth"/><attr name="android:minHeight"/><attr name="android:maxWidth"/><attr name="android:maxHeight"/><attr name="layout_optimizationLevel"/><attr name="constraintSet"/><attr name="barrierDirection"/><attr name="barrierAllowsGoneWidgets"/><attr name="constraint_referenced_ids"/><attr name="chainUseRtl"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable><declare-styleable name="PopupWindowBackgroundState">
+    </declare-styleable><declare-styleable name="GridLayout_Layout">
+
         
-        <attr format="boolean" name="state_above_anchor"/>
+
+
+        
+
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+        
+        <attr name="android:layout_margin"/>
+        
+        <attr name="android:layout_marginLeft"/>
+        
+        <attr name="android:layout_marginTop"/>
+        
+        <attr name="android:layout_marginRight"/>
+        
+        <attr name="android:layout_marginBottom"/>
+
+        
+
+        
+        <attr format="integer" name="layout_row"/>
+        
+        <attr format="integer" min="1" name="layout_rowSpan"/>
+        
+        <attr format="float" name="layout_rowWeight"/>
+        
+        <attr format="integer" name="layout_column"/>
+        
+        <attr format="integer" min="1" name="layout_columnSpan"/>
+        
+        <attr format="float" name="layout_columnWeight"/>
+        
+        <attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
     </declare-styleable><declare-styleable name="FontFamilyFont">
         
         <attr name="fontStyle">
@@ -3734,19 +4248,25 @@
         
         <attr format="reference" name="submitBackground"/>
         <attr name="android:focusable"/>
-    </declare-styleable><declare-styleable name="ActionMode">
+    </declare-styleable><declare-styleable name="RecyclerView">
         
-        <attr name="titleTextStyle"/>
+        <attr format="string" name="layoutManager"/>
+
         
-        <attr name="subtitleTextStyle"/>
         
-        <attr name="background"/>
         
-        <attr name="backgroundSplit"/>
-        
-        <attr name="height"/>
-        
-        <attr format="reference" name="closeItemLayout"/>
+        <eat-comment/>
+
+        <attr name="android:orientation"/>
+        <attr name="android:descendantFocusability"/>
+        <attr format="integer" name="spanCount"/>
+        <attr format="boolean" name="reverseLayout"/>
+        <attr format="boolean" name="stackFromEnd"/>
+        <attr format="boolean" name="fastScrollEnabled"/>
+        <attr format="reference" name="fastScrollVerticalThumbDrawable"/>
+        <attr format="reference" name="fastScrollVerticalTrackDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalThumbDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
     </declare-styleable><declare-styleable name="ActionMenuView">
         
     </declare-styleable><declare-styleable name="CompoundButton">
@@ -3771,61 +4291,6 @@
             
             <enum name="add" value="16"/>
         </attr>
-    </declare-styleable><declare-styleable name="SwitchCompat">
-        
-        <attr name="android:thumb"/>
-        
-        <attr format="color" name="thumbTint"/>
-        
-        <attr name="thumbTintMode">
-            
-            <enum name="src_over" value="3"/>
-            
-            <enum name="src_in" value="5"/>
-            
-            <enum name="src_atop" value="9"/>
-            
-            <enum name="multiply" value="14"/>
-            
-            <enum name="screen" value="15"/>
-            
-            <enum name="add" value="16"/>
-        </attr>
-        
-        <attr format="reference" name="track"/>
-        
-        <attr format="color" name="trackTint"/>
-        
-        <attr name="trackTintMode">
-            
-            <enum name="src_over" value="3"/>
-            
-            <enum name="src_in" value="5"/>
-            
-            <enum name="src_atop" value="9"/>
-            
-            <enum name="multiply" value="14"/>
-            
-            <enum name="screen" value="15"/>
-            
-            <enum name="add" value="16"/>
-        </attr>
-        
-        <attr name="android:textOn"/>
-        
-        <attr name="android:textOff"/>
-        
-        <attr format="dimension" name="thumbTextPadding"/>
-        
-        <attr format="reference" name="switchTextAppearance"/>
-        
-        <attr format="dimension" name="switchMinWidth"/>
-        
-        <attr format="dimension" name="switchPadding"/>
-        
-        <attr format="boolean" name="splitTrack"/>
-        
-        <attr format="boolean" name="showText"/>
     </declare-styleable><declare-styleable name="AppCompatTextHelper">
         <attr name="android:drawableLeft"/>
         <attr name="android:drawableTop"/>

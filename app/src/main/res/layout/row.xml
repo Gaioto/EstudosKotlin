@@ -1,0 +1,46 @@
+<androidx.cardview.widget.CardView android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:cardCornerRadius="3dp"
+        app:cardElevation="3dp"
+        app:cardUseCompatPadding="true">
+    
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/frutaFundo"
+            android:padding="22dp"
+            android:background="#FFFCCC">
+        
+        <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:id="@+id/imgFrutas"
+                android:src="@drawable/melancia"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nomeFruta"
+                android:text="@string/txt_melancia"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:textColor="@color/preto"
+                android:layout_toEndOf="@id/imgFrutas"
+                android:layout_marginStart="10dp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/descFruta"
+                android:text="@string/txt_laranja"
+                android:textSize="18sp"
+                android:textColor="@color/cinza"
+                android:layout_toEndOf="@id/imgFrutas"
+                android:layout_below="@id/nomeFruta"
+                android:layout_marginStart="10dp"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

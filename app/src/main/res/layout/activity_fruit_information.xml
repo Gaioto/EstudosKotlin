@@ -2,7 +2,6 @@
 <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/tela_fruta"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
         android:background="@color/color_banana"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -35,77 +34,15 @@
             android:id="@+id/fruit_info"
             android:layout_width="389dp"
             android:layout_height="93dp"
-            android:layout_marginTop="35dp"
-            android:text="@string/banana_info"
-            android:textStyle="bold|italic"
+            android:layout_marginTop="44dp"
             android:fontFamily="sans-serif"
+            android:text="@string/banana_info"
             android:textIsSelectable="false"
+            android:textStyle="bold|italic"
+            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/fruit_name"
-            tools:ignore="MissingConstraints" />
-
-    <androidx.appcompat.widget.AppCompatTextView
-            android:id="@+id/appCompatTextView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/gosta_fruta"
-            android:textSize="@dimen/vinte_dimens"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/fruit_info"
-            app:layout_constraintVertical_bias="0.037" />
-
-    <androidx.appcompat.widget.AppCompatTextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="28dp"
-            android:layout_marginBottom="152dp"
-            android:text="@string/radio_sim"
-            android:textSize="24sp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@+id/appCompatRadioButton2"
-            app:layout_constraintHorizontal_bias="0.645"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/appCompatTextView"
-            app:layout_constraintVertical_bias="0.833" />
-
-    <androidx.appcompat.widget.AppCompatTextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/radio_nao"
-            android:textSize="24sp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/appCompatRadioButton4"
-            app:layout_constraintTop_toBottomOf="@+id/appCompatTextView"
-            app:layout_constraintVertical_bias="0.132" />
-
-    <androidx.appcompat.widget.AppCompatRadioButton
-            android:id="@+id/appCompatRadioButton4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="23dp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.77"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/appCompatTextView"
             app:layout_constraintVertical_bias="0.0" />
 
-    <androidx.appcompat.widget.AppCompatRadioButton
-            android:id="@+id/appCompatRadioButton2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="23dp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@+id/appCompatRadioButton4"
-            app:layout_constraintHorizontal_bias="0.365"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/appCompatTextView"
-            app:layout_constraintVertical_bias="0.0">
-
-
-    </androidx.appcompat.widget.AppCompatRadioButton>
-</androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>

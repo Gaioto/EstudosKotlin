@@ -1,15 +1,33 @@
 <resources>
-    <string name="app_name">Imagens</string>
-    <string name="txt_banana" translatable="false">Banana</string>
+    <string name="app_name">FruitFruiter</string>
+
     <string name="txt_mudaimagem" translatable="false">Muda Imagem</string>
+
+
+
+
+
+
+
+
+
+
+    //NOME DAS FRUTAS
+    <string name="txt_banana" translatable="false">Banana</string>
     <string name="txt_abacaxi" translatable="false">Abacaxi</string>
     <string name="txt_manga" translatable="false">Manga</string>
     <string name="txt_morango" translatable="false">Morango</string>
     <string name="txt_melancia" translatable="false">Melancia</string>
+    <string name="txt_laranja" translatable="false">Laranja</string>
+    <string name="txt_uva" translatable="false">Uva</string>
+
+
+
+
+    //DESCRIÇÃO DAS FRUTAS
     <string name="banana_info" translatable="false">Banana, pacoba ou pacova é uma pseudobaga da bananeira, uma planta herbácea vivaz acaule da família Musaceae. São cultivadas em 130 países. Originárias do sudeste da Ásia são atualmente cultivadas em praticamente todas as regiões tropicais do planeta.</string>
     <string name="abacaxi_info" translatable="false">O abacaxi, conhecido em Portugal como ananás, é uma infrutescência tropical produzida pela planta de mesmo nome, caracterizada como uma planta monocotiledônea da família das bromeliáceas da subfamília Bromelioideae. É um símbolo das regiões tropicais e subtropicais.</string>
-    <string name="manga_info">A manga é o fruto da mangueira, árvore frutífera da família Anacardiaceae, nativa do sul e do sudeste asiático desde o leste da Índia até as Filipinas, e introduzida com sucesso no Brasil, em Angola, em Moçambique e em outros países tropicais.</string>
-    <string name="morango_info">Morango é considerado, na linguagem vulgar, como o fruto vermelho do morangueiro, da família das rosáceas. No entanto, em termos científicos não se pode considerar um fruto já que é constituído pelo receptáculo da flor original, em volta do qual se dispõem os frutos</string>
-    <string name="melancia_info">Melancia é uma planta da família Cucurbitaceae e do seu fruto. Trata-se de uma trepadeira rastejante originária da África.</string>
-
+    <string name="manga_info" translatable="false">A manga é o fruto da mangueira, árvore frutífera da família Anacardiaceae, nativa do sul e do sudeste asiático desde o leste da Índia até as Filipinas, e introduzida com sucesso no Brasil, em Angola, em Moçambique e em outros países tropicais.</string>
+    <string name="morango_info" translatable="false">Morango é considerado, na linguagem vulgar, como o fruto vermelho do morangueiro, da família das rosáceas. No entanto, em termos científicos não se pode considerar um fruto já que é constituído pelo receptáculo da flor original, em volta do qual se dispõem os frutos</string>
+    <string name="melancia_info" translatable="false">Melancia é uma planta da família Cucurbitaceae e do seu fruto. Trata-se de uma trepadeira rastejante originária da África.</string>
 </resources>

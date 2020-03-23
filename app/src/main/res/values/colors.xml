@@ -8,4 +8,8 @@
     <color name="color_manga">#FFD600</color>
     <color name="color_melancia">#F85D5D</color>
     <color name="color_morango">#F2FF4545</color>
+    <color name="color_laranja">#FF7F57</color>
+    <color name="color_uva">#B044FD</color>
+    <color name="preto">#000</color>
+    <color name="cinza">#717171</color>
 </resources>

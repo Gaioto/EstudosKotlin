@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\Imagens\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk\\values-kk.xml",
+            "outputFile": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk\\values-kk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\luizg\\.gradle\\caches\\transforms-2\\files-2.1\\47abbf4f23226f54634512a83aedb2cf\\core-1.2.0\\res\\values-kk\\values-kk.xml",

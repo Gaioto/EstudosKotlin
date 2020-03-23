@@ -6,49 +6,49 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->D:\Android\Imagens\app\src\main\AndroidManifest.xml
+8-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->D:\Android\Imagens\app\src\main\AndroidManifest.xml
+9-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:5:5-22:19
+11-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:5:5-22:19
 12        android:allowBackup="true"
-12-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.2.0] C:\Users\luizg\.gradle\caches\transforms-2\files-2.1\47abbf4f23226f54634512a83aedb2cf\core-1.2.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
-16        android:icon="@mipmap/ic_launcher"
-16-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:7:9-43
+16        android:icon="@drawable/iconeapp"
+16-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:7:9-42
 17        android:label="@string/app_name"
-17-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:8:9-41
+17-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:8:9-41
 18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:9:9-54
+18-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
-19-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:10:9-35
+19-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:10:9-35
 20        android:testOnly="true"
 21        android:theme="@style/AppTheme" >
-21-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:11:9-40
+21-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:11:9-40
 22        <activity android:name="br.com.fiap.imagens.MainActivity" >
-22-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:12:9-18:20
-22-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:12:19-47
+22-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:12:9-18:20
+22-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:12:19-47
 23            <intent-filter>
-23-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:13:13-17:29
+23-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:13:13-17:29
 24                <action android:name="android.intent.action.MAIN" />
-24-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:14:17-69
-24-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:14:25-66
+24-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:14:17-69
+24-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:14:25-66
 25
 26                <category android:name="android.intent.category.LAUNCHER" />
-26-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:16:17-77
-26-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:16:27-74
+26-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:16:17-77
+26-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:16:27-74
 27            </intent-filter>
 28        </activity>
 29        <activity
-29-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:20:9-21:57
+29-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:20:9-21:57
 30            android:name="br.com.fiap.imagens.FruitInformationActivity"
-30-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:20:19-59
+30-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:20:19-59
 31            android:screenOrientation="fullSensor" />
-31-->D:\Android\Imagens\app\src\main\AndroidManifest.xml:21:17-55
+31-->C:\Users\luizg\Documents\GitHub\EstudosKotlin\app\src\main\AndroidManifest.xml:21:17-55
 32    </application>
 33
 34</manifest>
