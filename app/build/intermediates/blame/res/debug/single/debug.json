@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laranja.png.flat",
-        "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\drawable\\laranja.png"
-    },
-    {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banana.png.flat",
         "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\drawable\\banana.png"
+    },
+    {
+        "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laranja.png.flat",
+        "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\drawable\\laranja.png"
     },
     {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -52,12 +52,20 @@
         "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kiwi.png.flat",
+        "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\drawable\\kiwi.png"
+    },
+    {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_manga.png.flat",
         "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\drawable\\manga.png"
     },
     {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abacate.png.flat",
+        "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\drawable\\abacate.png"
     },
     {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -70,6 +78,10 @@
     {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_limao.png.flat",
+        "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\drawable\\limao.png"
     },
     {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -94,6 +106,10 @@
     {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maca.png.flat",
+        "source": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\src\\main\\res\\drawable\\maca.png"
     },
     {
         "merged": "C:\\Users\\luizg\\Documents\\GitHub\\EstudosKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",

@@ -1,12 +1,14 @@
 package br.com.fiap.imagens
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import kotlinx.android.synthetic.main.row.view.*
+import kotlin.collections.ArrayList
+
 
 class MyAdapter(private val arrayList: ArrayList<Fruta>, private val context: Context) :
     RecyclerView.Adapter<MyAdapter.ViewHolder>() {
@@ -18,6 +20,7 @@ class MyAdapter(private val arrayList: ArrayList<Fruta>, private val context: Co
             itemView.nomeFruta.text = fruta.nome
             itemView.descFruta.text = fruta.desc
             itemView.imgFrutas.setImageResource(fruta.imagemFruta)
+            itemView.frutaFundo.setBackgroundResource(fruta.cor)
 
         }
     }
@@ -38,40 +41,19 @@ class MyAdapter(private val arrayList: ArrayList<Fruta>, private val context: Co
 
         holder.itemView.setOnClickListener {
 
-            when(posicao){
+            val fruta = arrayList[posicao]
+            val fNome: String = fruta.nome
+            val fInfo: String = fruta.info
+            val fImagem: Int = fruta.imagemFruta
+            val fCor: Int = fruta.cor
 
-                0 -> {
-                    Toast.makeText(context, "ABACAXI!!!!", Toast.LENGTH_LONG).show()
-                }
+            val intent = Intent(context, FruitInformationActivity::class.java)
+            intent.putExtra("fNome", fNome)
+            intent.putExtra("fInfo", fInfo)
+            intent.putExtra("fImagem", fImagem)
+            intent.putExtra("fCor", fCor)
 
-                1 -> {
-                    Toast.makeText(context, "BANANA!!!!", Toast.LENGTH_LONG).show()
-                }
-
-                2 -> {
-                    Toast.makeText(context, "LARANJA!!!!", Toast.LENGTH_LONG).show()
-                }
-
-                3 -> {
-                    Toast.makeText(context, "MANGA!!!!", Toast.LENGTH_LONG).show()
-                }
-
-                4 -> {
-                    Toast.makeText(context, "MELANCIA!!!!", Toast.LENGTH_LONG).show()
-                }
-
-                5 -> {
-                    Toast.makeText(context, "MORANGO!!!!", Toast.LENGTH_LONG).show()
-                }
-
-                6 -> {
-                    Toast.makeText(context, "UVA!!!!", Toast.LENGTH_LONG).show()
-                }
-
-
-
-
-            }
+            context.startActivity(intent)
         }
     }
 }

@@ -1,16 +1,8 @@
 <resources>
+    //OUTROS
     <string name="app_name">FruitFruiter</string>
-
     <string name="txt_mudaimagem" translatable="false">Muda Imagem</string>
-
-
-
-
-
-
-
-
-
+    //FIM OUTROS
 
     //NOME DAS FRUTAS
     <string name="txt_banana" translatable="false">Banana</string>
@@ -20,14 +12,41 @@
     <string name="txt_melancia" translatable="false">Melancia</string>
     <string name="txt_laranja" translatable="false">Laranja</string>
     <string name="txt_uva" translatable="false">Uva</string>
+    <string name="txt_abacate" translatable="false">Abacate</string>
+    <string name="txt_kiwi" translatable="false">Kiwi</string>
+    <string name="txt_limao" translatable="false">Limão</string>
+    <string name="txt_maca" translatable="false">Maça</string>
+    //FIM NOMES
 
 
 
-
-    //DESCRIÇÃO DAS FRUTAS
+    //INFORMAÇÃO DAS FRUTAS
     <string name="banana_info" translatable="false">Banana, pacoba ou pacova é uma pseudobaga da bananeira, uma planta herbácea vivaz acaule da família Musaceae. São cultivadas em 130 países. Originárias do sudeste da Ásia são atualmente cultivadas em praticamente todas as regiões tropicais do planeta.</string>
     <string name="abacaxi_info" translatable="false">O abacaxi, conhecido em Portugal como ananás, é uma infrutescência tropical produzida pela planta de mesmo nome, caracterizada como uma planta monocotiledônea da família das bromeliáceas da subfamília Bromelioideae. É um símbolo das regiões tropicais e subtropicais.</string>
     <string name="manga_info" translatable="false">A manga é o fruto da mangueira, árvore frutífera da família Anacardiaceae, nativa do sul e do sudeste asiático desde o leste da Índia até as Filipinas, e introduzida com sucesso no Brasil, em Angola, em Moçambique e em outros países tropicais.</string>
     <string name="morango_info" translatable="false">Morango é considerado, na linguagem vulgar, como o fruto vermelho do morangueiro, da família das rosáceas. No entanto, em termos científicos não se pode considerar um fruto já que é constituído pelo receptáculo da flor original, em volta do qual se dispõem os frutos</string>
     <string name="melancia_info" translatable="false">Melancia é uma planta da família Cucurbitaceae e do seu fruto. Trata-se de uma trepadeira rastejante originária da África.</string>
+    <string name="laranja_info" translatable="false">A laranja é o fruto da laranjeira, uma árvore da família Rutaceae. É um fruto híbrido que teria surgido na Antiguidade a partir do cruzamento da cimboa com a tangerina.</string>
+    <string name="uva_info" translatable="false">A uva é o fruto da videira, uma planta da família das Vitaceae. É utilizada frequentemente para produzir sumo, doce, vinho e passas, podendo também ser consumida ao natural. Entre as espécies de videiras podemos referir: Vitis vinifera, o tipo de videira mais frequente na produção do vinho.</string>
+    <string name="abacate_info" translatable="false">O abacate é o fruto comestível do abacateiro, uma árvore da família da Lauraceae nativa do México ou da América do Sul, hoje extensamente cultivada em regiões tropicais e subtropicais, inclusive nas Ilhas Canárias, na Ilha da Madeira e na Sicília.</string>
+    <string name="kiwi_info" translatable="false">O kiwi, ou groselha chinesa, é a baga comestível de várias espécies de videiras lenhosas do gênero Actinidia. O grupo de cultivares mais comum de kiwis é oval, do tamanho de um ovo de galinha grande.</string>
+    <string name="limao_info" translatable="false">O limão é o fruto de uma pequena árvore de folha perene originária da região sudeste da Ásia, da família das rutáceas.</string>
+    <string name="maca_info" translatable="false">A maçã é o pseudofruto pomáceo da macieira, árvore da família Rosaceae. É um dos pseudofrutos de árvore mais cultivados, e o mais conhecido dos muitos membros do género Malus que são usados ​​pelos seres humanos.</string>
+    //INFO
+
+
+
+    //DESCRIÇÃO DAS FRUTAS
+    <string name="abacaxi_desc" translatable="false">Fruta cítrica , amarela por dentro.</string>
+    <string name="banana_desc" translatable="false">Fruta doce, amarela por dentro e por fora.</string>
+    <string name="laranja_desc" translatable="false">Fruta cítrica , laranja por dentro e por fora.</string>
+    <string name="manga_desc" translatable="false">Fruta doce, amarela e vermelha por fora e amarela por dentro.</string>
+    <string name="melancia_desc" translatable="false">Fruta doce, verde por fora e vermelha por dentro.</string>
+    <string name="morango_desc" translatable="false">Fruta doce, vermelha por fora e por dentro.</string>
+    <string name="uva_desc" translatable="false">Fruta doce, podendo ter a cor verde ou roxa por fora.</string>
+    <string name="abacate_desc" translatable="false">Fruta doce, verde por fora e por dentro um tom de verde claro meio amarelado.</string>
+    <string name="kiwi_desc" translatable="false">Fruta cítrica, por fora marrom e por dentro verde.</string>
+    <string name="limao_desc" translatable="false">Fruta cítrica, por fora verde e por dentro verde também.</string>
+    <string name="maca_desc" translatable="false">Fruta doce, por fora vermelha e por dentro um amarelo bem fraco/bege claro.</string>
+    //FIM DESC
 </resources>

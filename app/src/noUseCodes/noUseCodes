@@ -1,0 +1,70 @@
+/* when(posicao){
+                0 -> {
+                    Toast.makeText(context, "ABACAXI!!!!", Toast.LENGTH_LONG).show()
+                }
+
+                1 -> {
+                    Toast.makeText(context, "BANANA!!!!", Toast.LENGTH_LONG).show()
+                }
+
+                2 -> {
+                    Toast.makeText(context, "LARANJA!!!!", Toast.LENGTH_LONG).show()
+                }
+
+                3 -> {
+                    Toast.makeText(context, "MANGA!!!!", Toast.LENGTH_LONG).show()
+                }
+
+                4 -> {
+                    Toast.makeText(context, "MELANCIA!!!!", Toast.LENGTH_LONG).show()
+                }
+
+                5 -> {
+                    Toast.makeText(context, "MORANGO!!!!", Toast.LENGTH_LONG).show()
+                }
+
+                6 -> {
+                    Toast.makeText(context, "UVA!!!!", Toast.LENGTH_LONG).show()
+                }
+
+            }*/
+
+            private fun setImage() {
+                    when(this.intent.getIntExtra("SELECIONADO", -1)){
+                        0 -> {
+                           image_fruit.setImageResource(R.drawable.abacaxi)
+                           fruit_name.text = getString(R.string.txt_abacaxi)
+                           fruit_info.text = getString(R.string.abacaxi_info)
+                           tela_fruta.background = getDrawable(R.color.color_abacaxi)
+                        }
+
+                        1 -> {
+                            image_fruit.setImageResource(R.drawable.banana)
+                            fruit_name.text = getString(R.string.txt_banana)
+                            fruit_info.text = getString(R.string.banana_info)
+                            tela_fruta.background = getDrawable(R.color.color_banana)
+                        }
+
+                        2 -> {
+                            image_fruit.setImageResource(R.drawable.manga)
+                            fruit_name.text = getString(R.string.txt_manga)
+                            fruit_info.text = getString(R.string.manga_info)
+                            tela_fruta.background = getDrawable(R.color.color_manga)
+                        }
+
+                        3 -> {
+                            image_fruit.setImageResource(R.drawable.morango)
+                            fruit_name.text = getString(R.string.txt_morango)
+                            fruit_info.text = getString(R.string.morango_info)
+                            tela_fruta.background = getDrawable(R.color.color_morango)
+                        }
+
+                        4 -> {
+                            image_fruit.setImageResource(R.drawable.melancia)
+                            fruit_name.text = getString(R.string.txt_melancia)
+                            fruit_info.text = getString(R.string.melancia_info)
+                            tela_fruta.background = getDrawable(R.color.color_melancia)
+                        }
+                    }
+
+                }

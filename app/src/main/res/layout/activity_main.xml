@@ -1,4 +1,5 @@
-<androidx.appcompat.widget.LinearLayoutCompat android:background="#FFF2AC"
+<androidx.appcompat.widget.LinearLayoutCompat
+        android:background="@color/color_telaprincipal"
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

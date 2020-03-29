@@ -3,13 +3,21 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="preto">#000</color>
+    <color name="cinza">#3C3C3C</color>
+    <color name="color_telaprincipal">#FFF7CA</color>
+
+    //COR DAS FRUTAS
     <color name="color_banana">#F6EA7E</color>
     <color name="color_abacaxi">#FDD291</color>
     <color name="color_manga">#FFD600</color>
     <color name="color_melancia">#F85D5D</color>
     <color name="color_morango">#F2FF4545</color>
     <color name="color_laranja">#FF7F57</color>
-    <color name="color_uva">#B044FD</color>
-    <color name="preto">#000</color>
-    <color name="cinza">#717171</color>
+    <color name="color_uva">#BF66FF</color>
+    <color name="color_abacate">#5F8760</color>
+    <color name="color_kiwi">#715B47</color>
+    <color name="color_limao">#B0F85C</color>
+    <color name="color_maca">#E84C4C</color>
+    //FIM FRUTAS
 </resources>
